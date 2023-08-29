@@ -11,19 +11,14 @@ Your plugin will be installed via omegga install gh:Syringe/optimize
 
 # optimize
 
+Optimizes the brickcount of a copied selection. 
+
 A typed safe plugin for [omegga](https://github.com/brickadia-community/omegga).
-
-This is an auto-generated README file. Please change it before publishing your plugin!
-
-Be sure to edit the script in `setup.sh` to configure your plugin on install, or
-remove it entirely if it is unnecessary.
 
 ## Install
 
-`omegga install gh:Syringe/optimize`
+`omegga install gh:Alkajato/optimize`
 
-_TODO: more steps...?_
+## Commands
 
-## Usage
-
-_TODO: include some usage information_
+/optimize Takes bricks you copied and makes a version of the ghost-bricks that have less brickcount.
