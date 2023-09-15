@@ -1,7 +1,7 @@
 {
   "name": "optimize",
   "description": "A typed safe Omegga plugin.",
-  "author": "Syringe",
+  "author": "Syringe, CriticalFloof",
   "config": {},
   "commands": []
 }
