@@ -1,3 +1,4 @@
+// Credit to CriticalFloof for this.
 type Vector3Like = [number, number, number];
 
 export default class Vector3 {
